@@ -1,0 +1,8 @@
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\bin\Debug\Estrutura de codigo.exe.config
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\bin\Debug\Estrutura de codigo.exe
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\bin\Debug\Estrutura de codigo.pdb
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\obj\Debug\Estrutura de codigo.csproj.AssemblyReference.cache
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\obj\Debug\Estrutura de codigo.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\obj\Debug\Estrutura de codigo.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\obj\Debug\Estrutura de codigo.exe
+D:\GitHub\C#\C-Sharp\Estrutura de codigo\Estrutura de codigo\obj\Debug\Estrutura de codigo.pdb
