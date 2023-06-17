@@ -1,0 +1,8 @@
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe.config
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.exe
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\MeuPrimeiroProjeto.pdb
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.exe
+D:\GitHub\C#\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\MeuPrimeiroProjeto.pdb
